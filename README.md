@@ -60,11 +60,7 @@ The primary goals of this project are:
 
 ## Questions and Support
 
-For any questions or support regarding this project, please contact [Your Name] at [Your Email].
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+For any questions or support regarding this project, please contact Rohini Shinde at [shinderohini9168@gmail.com.
 
 ---
 
